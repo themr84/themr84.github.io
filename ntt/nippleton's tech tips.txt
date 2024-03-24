@@ -1,0 +1,215 @@
+nippleton’s cool tech tips
+
+1. to activate windows, use in PowerShell:
+
+     irm https://massgrave.dev/get | iex 
+
+2. rutracker.org has a lot of useful torrents and shit. 
+prioritize using it over any other site.
+
+3. for visiting any foreign website, use a real-time 
+text translator extension.
+
+4. monkrus.ws has all of adobe’s shit, use this instead 
+of rutracker. this is the only exclusion of tip 2.
+
+5. for pirating most software, add a firewall exclusion 
+in the windows firewall (or your anti-virus 
+software).
+
+6. to get some more information on someone, using a 
+relative’s name, use truepeoplesearch.com.
+
+7. learning how to type and learning key binds are a 
+major advantage when using a computer.
+
+8. when learning something, avoid following tutorials 
+and focus on understanding the concepts instead of 
+making a one-to-one clone of the tutorial.
+
+9. data-hoarding is most effective when only 
+occasionally using a disk.
+
+10. google is your friend.
+
+11. add the word reddit after searching for something; 
+results will then come from reddit. redditors 
+usually have the same and obscure issues as you, so 
+make sure to check there before anywhere else.
+
+12. do not trust tik-tok or temu. both are spyware.
+
+13. limit personalization settings within any accounts 
+you may have along with deleting data stored by 
+companies (excl. sites or accounts that hold 
+important or cherished data, such as photos).
+
+14. if buying isn’t owning, piracy isn’t stealing is a 
+common phrase used; it references the idea that 
+digital content can be revoked even if you bought 
+it. instead of owning it digitally, you basically 
+only bought access to it. in theory, if you can’t 
+own something you bought, you might as well save 
+your money and pirate it.
+
+15. purchasing a vpn service is required to pirate 
+safely. your internet provider will fine you for 
+each offense.
+
+16. when pirating, check the megathread on r/piracy.
+
+17. ensure digital cleaning happens yearly; delete old 
+apps, software, photos, documents, etc. obviously 
+exclude important or sedimental ones.
+
+18. when trying to focus on something, listen to 
+electronic/jazz/instrumentals. helps by not having 
+lyrics interfere with your thoughts.
+
+19. save your documents often.
+
+20. learn how to use ctrl+c, ctrl+v, ctrl+s, and ctrl+z 
+(copy, paste, save, and undo).
+
+21. depending on the program, redo tends to be either 
+ctrl+shift+z or ctrl+y.
+
+22. if something seems too good, it probably is.
+
+23. with the rise of ai, critical thinking is more 
+important than ever.
+
+24. don’t narrow yourself into one way of seeing a 
+topic. keeping an open mind is key to understanding 
+and empathy, along with being critical to understand 
+media.
+
+25. minimize usage of snapchat and prefer to use the 
+default messaging app.
+
+26. like any other new technology, ai is controversial. 
+the issue is being able to understand, regulate, and 
+counter the issues of ai. 
+
+27. ai can never be an artist. art is a form of 
+expression. ai cannot express and cannot create 
+original pieces without a reference.
+
+28. reference does not equate to skill
+
+29. apple does not care about its customers
+
+30. iphones are only secure because of the number of 
+restrictions.
+
+31. restrictions do not guarantee security.
+
+32. most security issues for the average user are 
+within data usage and data selling, not viruses or 
+malware.
+
+33. don’t use facebook, its mind rot for old people.
+
+34. if it exists, there’s porn of it.
+
+35. over-the-head headphones will usually be more 
+comfortable and have better sound quality than 
+earbuds.
+
+36. noise-cancelation works by taking audio from a 
+microphone input and inverting it to cancel it out 
+in real-time processing.
+
+37. latency is the delay between inputs or actions.
+
+38. any game running below 30 fps is not playable. 
+anything running under 60 fps is acceptable.
+
+39. high average fps does not translate to feeling well 
+if your lows of fps are bad.
+
+40. the term of 1% lows references the idea of fps and 
+the very worst of the fps. depending on the gap 
+between the lows and average fps, the smoothness of 
+the content can change.
+
+41. 1% lows should be as close to your average as 
+possible. the closer the less of a stuttering feel.
+
+42. having fun is the best way to learn something with 
+technology.
+
+43. technology is very adaptable and can be used in 
+lots of ways that you might not think of.
+
+44. technologies will replace jobs but bring in new 
+jobs as well.
+
+45. importance of computer parts is as follows (in my 
+opinion): 
+ 
+gpu > cpu > power-supply > ram > storage > 
+motherboard > peripherals > case
+
+your gpu and cpu determine the speeds of games and 
+programs, your power supply supplies power, your ram 
+is short-term storage for programs to quickly 
+access, your storage manages data, and your 
+motherboard connects all your components together. 
+your peripherals include your monitor, mouse, 
+keyboard, and any other device that is plugged in. 
+your case houses all of your components. this order 
+can change depending on what you need your pc to do. 
+
+46. androids aren’t as bad as they used to be.
+47. console and phone wars are pointless debates. all 
+sides need to agree that separation is making things 
+more annoying and divisive.
+48. apple music is better than spotify, other than 
+recommendations. 
+49. open-source programs are programs that have their 
+code and assets fully open to the public, which can 
+be forked.
+50. forks are modifications of a project by a new 
+person or group.
+51. closed-source programs are programs that do not 
+have their code and assets open to the public.
+52. virtual machines, or vms, are programs that act as 
+a computer on your computer. computer- inception!
+53. avoid buying cheap technology to avoid adding to 
+the e-waste issues.
+54. there’s always a way to break software. the only 
+issue is time.
+55. the term jailbreaking refers to the act of rooting 
+an iphone, or allowing the user to control anything 
+about their iphone.
+56. side-loading should be allowed for ios users.
+57. technology is expensive and will more than likely 
+always stay expensive.
+58. decapitalization and corporate greed are killing 
+innovation.
+59. children should not be allowed to use the internet 
+without constant supervision until the age of 13.
+60. parents are the issues with gen alpha due to not 
+enough moderation of technology.
+61. technology cannot raise your kids single-handedly.
+62. ethernet is wired wifi, which makes the connections 
+more stable and hastier.
+63. video games can be educational whether it was 
+intended to be or not.
+64. virtual and augmented reality will be major players 
+in tech within the near the future.
+65. crypto-currencies will fall more and more.
+66. invest in stocks instead of crypto.
+67. invest in tech company stocks before big 
+announcements happen
+68. tech company stocks are usually always on the rise.
+69. s
+70. giving up is always easier than actually doing the 
+thing you are giving up.
+71. ocd pushes your personal expectations to 
+unachievable levels.
+72. 
+
+
+

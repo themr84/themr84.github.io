@@ -8,7 +8,51 @@ h1 {
     font-family: 'vcr';
     font-size: 72px;
 }
+
 @font-face {
     font-family: 'vcr';
     src: url(https://raw.githack.com/themr84/themr84.github.io/main/fonts/vcrfont.ttf) format(truetype);
 }
+
+code {
+    font-family: 'vcr';
+    font-size: 24px;
+    background-color: #1d004b;
+    max-width: fit-content;
+    padding: 0.5em;
+}
+
+pre {
+    font-family: 'vcr';
+    font-size: 24px;
+    max-width: fit-content;
+    padding: 0.5em;
+}
+
+h2 {
+    font-size: 40px;
+    text-decoration: underline overline;
+}
+
+a:link {
+    font-family: 'vcr';
+    font-size: 24px;
+    color: #F9EDE4;
+}
+a:visited {
+    font-family: 'vcr';
+    font-size: 24px;
+    color: #fab27c;
+}
+a {
+    font-family: 'vcr';
+    font-size: 24px;
+    color: #F9EDE4;
+    display: inline-block;
+    transition: transform 0.5s ease;
+    position: relative;
+  }
+a:hover {
+    transform: scale(1.2) translate(22px,0px);
+    
+ }
