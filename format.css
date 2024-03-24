@@ -59,13 +59,14 @@ a {
     transition: transform 0.5s ease;
     position: relative;
   }
+#back a:hover{
+    transform: scale(1.2) translate(5px,2px);
+}
 a:hover {
     transform: scale(1.2) translate(22px,0px);
     
 }
-#back a:hover{
-    transform: scale(1.2) translate(5px,2px);
-}
+
 
  .eternalatakenew{
     position: relative;
