@@ -64,7 +64,6 @@ a:hover {
     
 }
 #back a:hover{
-    position: sticky;
     transform: scale(1.2) translate(5px,2px);
 }
 
