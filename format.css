@@ -1,9 +1,11 @@
+
 body{
     background-color: #000411;
     color: #F9EDE4;
     font-family: 'vcr';
     font-size: 24px;
 }
+
 h1 {
     font-family: 'vcr';
     font-size: 72px;
@@ -56,3 +58,18 @@ a:hover {
     transform: scale(1.2) translate(22px,0px);
     
  }
+ .eternalatakenew{
+    position: relative;
+    transform: translate(0px,100px);
+ }
+ .eternalatakesub1{
+    position: relative;
+    font-size: 14px;
+    transform: translate(0px,-10px);
+ }
+ .eternalatakesub2{
+    position: relative;
+    font-size: 18px;
+    transform: translate(0px,-10px);
+ }
+ 
