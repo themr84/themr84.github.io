@@ -1,85 +1,83 @@
-#social p{
-    text-decoration: overline underline;
+#social p {
+  text-decoration: overline underline;
 }
-body{
-    background-color: #000411;
-    color: #F9EDE4;
-    font-family: 'vcr';
-    font-size: 24px;
+body {
+  background-color: #000411;
+  color: #f9ede4;
+  font-family: "vcr";
+  font-size: 24px;
 }
 
 h1 {
-    font-family: 'vcr';
-    font-size: 72px;
+  font-family: "vcr";
+  font-size: 72px;
 }
 
 @font-face {
-    font-family: 'vcr';
-    src: url(https://raw.githack.com/themr84/themr84.github.io/main/fonts/vcrfont.ttf) format(truetype);
+  font-family: "vcr";
+  src: url(https://raw.githack.com/themr84/themr84.github.io/main/fonts/vcrfont.ttf)
+    format(truetype);
 }
 
 code {
-    font-family: 'vcr';
-    font-size: 24px;
-    background-color: #1d004b;
-    max-width: fit-content;
-    padding: 0.5em;
+  font-family: "vcr";
+  font-size: 24px;
+  background-color: #1d004b;
+  max-width: fit-content;
+  padding: 0.5em;
 }
 
 pre {
-    font-family: 'vcr';
-    font-size: 24px;
-    max-width: fit-content;
-    padding: 0.5em;
+  font-family: "vcr";
+  font-size: 24px;
+  max-width: fit-content;
+  padding: 0.5em;
 }
 
 h2 {
-    font-size: 40px;
-    text-decoration: underline overline;
+  font-size: 40px;
+  text-decoration: underline overline;
 }
 h3 {
-    font-size: 32px;
+  font-size: 32px;
 }
 
 a:link {
-    font-family: 'vcr';
-    font-size: 24px;
-    color: #fab27c;
+  font-family: "vcr";
+  font-size: 24px;
+  color: #fab27c;
 }
 a:visited {
-    font-family: 'vcr';
-    font-size: 24px;
-    color: #fab27c;
+  font-family: "vcr";
+  font-size: 24px;
+  color: #fab27c;
 }
 a {
-    font-family: 'vcr';
-    font-size: 24px;
-    color: #F9EDE4;
-    display: inline-block;
-    transition: transform 0.5s ease;
-    position: relative;
-  }
-#back a:hover{
-    transform: scale(1.2) translate(5px,2px);
+  font-family: "vcr";
+  font-size: 24px;
+  color: #f9ede4;
+  display: inline-block;
+  transition: transform 0.5s ease;
+  position: relative;
+}
+#back a:hover {
+  transform: scale(1.2) translate(5px, 2px);
 }
 a:hover {
-    transform: scale(1.2) translate(22px,0px);
-    
+  transform: scale(1.2) translate(22px, 0px);
 }
 
-
- .eternalatakenew{
-    position: relative;
-    transform: translate(0px,0px);
- }
- .eternalatakesub1{
-    position: relative;
-    font-size: 14px;
-    transform: translate(0px,-10px);
- }
- .eternalatakesub2{
-    position: relative;
-    font-size: 18px;
-    transform: translate(0px,-10px);
- }
- 
+.eternalatakenew {
+  position: relative;
+  transform: translate(0px, 0px);
+}
+.eternalatakesub1 {
+  position: relative;
+  font-size: 14px;
+  transform: translate(0px, -10px);
+}
+.eternalatakesub2 {
+  position: relative;
+  font-size: 18px;
+  transform: translate(0px, -10px);
+}
