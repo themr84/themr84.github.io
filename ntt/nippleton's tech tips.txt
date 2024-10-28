@@ -1,4 +1,4 @@
-nippleton’s cool tech tips
+nippleton's cool tech stuff
 
 1. to activate windows, use in PowerShell:
 
@@ -10,7 +10,7 @@ prioritize using it over any other site.
 3. for visiting any foreign website, use a real-time 
 text translator extension.
 
-4. monkrus.ws has all of adobe’s shit, use this instead 
+4. monkrus.ws has all of adobeï¿½s shit, use this instead 
 of rutracker. this is the only exclusion of tip 2.
 
 5. for pirating most software, add a firewall exclusion 
@@ -18,7 +18,7 @@ in the windows firewall (or your anti-virus
 software).
 
 6. to get some more information on someone, using a 
-relative’s name, use truepeoplesearch.com.
+relative's name, use truepeoplesearch.com.
 
 7. learning how to type and learning key binds are a 
 major advantage when using a computer.
@@ -44,11 +44,11 @@ you may have along with deleting data stored by
 companies (excl. sites or accounts that hold 
 important or cherished data, such as photos).
 
-14. if buying isn’t owning, piracy isn’t stealing is a 
+14. if buying isn't owning, piracy isn't stealing is a 
 common phrase used; it references the idea that 
 digital content can be revoked even if you bought 
 it. instead of owning it digitally, you basically 
-only bought access to it. in theory, if you can’t 
+only bought access to it. in theory, if you canï¿½t 
 own something you bought, you might as well save 
 your money and pirate it.
 
@@ -79,7 +79,7 @@ ctrl+shift+z or ctrl+y.
 23. with the rise of ai, critical thinking is more 
 important than ever.
 
-24. don’t narrow yourself into one way of seeing a 
+24. donï¿½t narrow yourself into one way of seeing a 
 topic. keeping an open mind is key to understanding 
 and empathy, along with being critical to understand 
 media.
@@ -108,9 +108,9 @@ restrictions.
 within data usage and data selling, not viruses or 
 malware.
 
-33. don’t use facebook, its mind rot for old people.
+33. donï¿½t use facebook, its mind rot for old people.
 
-34. if it exists, there’s porn of it.
+34. if it exists, thereï¿½s porn of it.
 
 35. over-the-head headphones will usually be more 
 comfortable and have better sound quality than 
@@ -161,7 +161,7 @@ keyboard, and any other device that is plugged in.
 your case houses all of your components. this order 
 can change depending on what you need your pc to do. 
 
-46. androids aren’t as bad as they used to be.
+46. androids aren't as bad as they used to be.
 47. console and phone wars are pointless debates. all 
 sides need to agree that separation is making things 
 more annoying and divisive.
@@ -178,7 +178,7 @@ have their code and assets open to the public.
 a computer on your computer. computer- inception!
 53. avoid buying cheap technology to avoid adding to 
 the e-waste issues.
-54. there’s always a way to break software. the only 
+54. thereï¿½s always a way to break software. the only 
 issue is time.
 55. the term jailbreaking refers to the act of rooting 
 an iphone, or allowing the user to control anything 
