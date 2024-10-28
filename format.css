@@ -1,9 +1,15 @@
 #social p {
   text-decoration: overline underline;
+  
 }
 body {
+  
+  background-image: linear-gradient(to top, #000411, #000400);
+  background-attachment: fixed;
+  
   background-color: #000411;
   color: #f9ede4;
+  text-shadow: 2px 2px 5px #f9ede4;
   font-family: "vcr";
   font-size: 24px;
 }
@@ -28,6 +34,7 @@ code {
 }
 
 pre {
+  
   font-family: "vcr";
   font-size: 24px;
   max-width: fit-content;
@@ -46,11 +53,13 @@ a:link {
   font-family: "vcr";
   font-size: 24px;
   color: #fab27c;
+  text-shadow: 2px 2px 5px #fab27c;
 }
 a:visited {
   font-family: "vcr";
   font-size: 24px;
   color: #fab27c;
+  text-shadow: 2px 2px 5px #fab27c;
 }
 a {
   font-family: "vcr";
