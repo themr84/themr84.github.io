@@ -94,3 +94,14 @@ a:hover {
   font-size: 18px;
   transform: translate(0px, -10px);
 }
+.alert {
+  padding: 10px;
+  background-color: #443021; 
+  color: white;
+  margin-bottom: 0px;
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  width: 750px;
+  font-style: italic;
+}
